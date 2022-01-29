@@ -64,3 +64,30 @@ hr {
   padding-top: 40px;
   padding-bottom: 0px;
 }
+p {
+  text-align: center;
+  font-size: 20px;
+  margin: 5px 100px 5px 100px;
+  padding-bottom: 25px;
+}
+ol {
+  margin-top: 5px;
+  padding-bottom: 10px;
+}
+
+li {
+  max-width: 385px; 
+  margin-left: auto;
+  margin-right: auto;
+  font-size: smaller;
+}
+h3 {
+  text-align: center;
+}
+
+.footer-images {
+  margin: 0 auto;
+  width: fit-content;
+}
+
+
