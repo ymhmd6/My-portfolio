@@ -1,4 +1,17 @@
-body {
-  background-color: #5f5345;
-}
+b
  
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-color: #f3ebe7;
+}
+
+.static {
+  position: sticky;
+  width: 100%;
+  top: 0;
+}
+
+header {
+  border-bottom: solid 1px;
+  background-color: #f3ebe7;
+}
