@@ -1,4 +1,3 @@
-b
  
 body {
   font-family: "Courier New", Courier, monospace;
@@ -14,4 +13,10 @@ body {
 header {
   border-bottom: solid 1px;
   background-color: #f3ebe7;
+}
+p {
+  text-align: center;
+  font-size: 20px;
+  margin: 5px 100px 5px 100px;
+  padding-bottom: 25px;
 }
