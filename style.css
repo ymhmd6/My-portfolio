@@ -12,6 +12,19 @@ nav {
 h1 {
   font-size: 50px;
 }
+
+ul {
+  margin-top: 5px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+li {
+  max-width: 385px; 
+  margin-left: auto;
+  margin-right: auto;
+  font-size: smaller;
+}
 body {
   font-family: "Courier New", Courier, monospace;
   background-color: #f3ebe7;
