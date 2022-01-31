@@ -1,4 +1,4 @@
-<--Navigation styling-->
+/*Navigation styling*/
 * {
   box-sizing: border-box;
 }
@@ -27,7 +27,7 @@ a:hover {
 }
 
 
-<--Navigation styling-->
+/*Navigation styling*/
 nav {       
   text-align: center;
   margin: 0;
@@ -42,7 +42,7 @@ h1 {
 hr {
   margin: 0;
 }
-<--Styling after nav-->
+/*Styling after nav*/
 .welcome {
   font-size: 50px;
   padding-top: 40px;
@@ -80,7 +80,7 @@ hr {
 .intro > img {
  width: 275px;
 }
-<--Pic of me styling-->
+/*Pic of me styling*/
 @media (max-width: 500px) {
   .intro > img {
     width: 275px;
@@ -94,14 +94,14 @@ ul {
   padding-bottom: 10px;
   text-align: center;
 }
-<--List styling-->
+/*List styling*/
 li {
   max-width: 385px; 
   margin-left: auto;
   margin-right: auto;
   font-size: smaller;
 }
-<--Font/background color-->
+/*Font/background color*/
 body {
   font-family: "Courier New", Courier, monospace;
   background-color: #f3ebe7;
@@ -112,7 +112,7 @@ body {
   width: 100%;
   top: 0;
 }
-<--Backgroubd color-->
+/*Backgroubd color*/
 header {
   border-bottom: solid 1px;
   background-color: #f3ebe7;
@@ -123,7 +123,7 @@ p {
   margin: 5px 100px 5px 100px;
   padding-bottom: 25px;
 }
-<--Heading-->
+/*Heading*/
 h2 {
   text-align: center;
 }
