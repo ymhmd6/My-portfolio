@@ -100,7 +100,7 @@ li {
 }
 body {
   font-family: "Courier New", Courier, monospace;
-  background-color: #f3ebe7;
+  background-color: #87827f;
 }
 
 .static {
@@ -111,7 +111,7 @@ body {
 
 header {
   border-bottom: solid 1px;
-  background-color: #f3ebe7;
+  background-color: #87827f;
 }
 p {
   text-align: center;
