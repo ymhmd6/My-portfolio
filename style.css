@@ -81,6 +81,7 @@ hr {
 
 .intro > img {
  width: 275px;
+ height: auto;
 }
 /*Pic of me styling*/
 @media (max-width: 500px) {
